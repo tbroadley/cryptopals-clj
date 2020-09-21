@@ -1,0 +1,3 @@
+```sh
+clj main.clj
+```
